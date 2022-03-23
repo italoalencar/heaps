@@ -1,4 +1,4 @@
-## Implementação em Python da Estrutura de Dados: Heap(máximo)
+## Implementação em Python da Estrutura de Dados: Heap (máximo)
 ### Tarefa proposta para a disciplina de Estrutura de Dados
 
 Para compactuar com a idéia de um heap ter como 1 seu primeiro indíce, algumas adaptações foram feitas:
